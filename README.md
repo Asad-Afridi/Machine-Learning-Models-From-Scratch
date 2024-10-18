@@ -2,6 +2,8 @@
 
 Welcome to the **Machine Learning Models From Scratch** repository! This project aims to provide implementations of various machine learning algorithms from the ground up, using Python and NumPy. The goal is to enhance understanding of how these algorithms work internally, allowing users to appreciate the mechanics behind popular machine learning techniques.
 
+In addition to implementing these models from scratch, we also utilize scikit-learn implementations of the same algorithms using the same dataset, allowing for a comparative analysis of the results.
+
 ## Table of Contents
 
 - [Features](#features)
@@ -14,7 +16,8 @@ Welcome to the **Machine Learning Models From Scratch** repository! This project
 
 ## Features
 
-- Implementations of key machine learning algorithms
+- Implementations of key machine learning algorithms from scratch
+- Comparative analysis with scikit-learn models using the same datasets
 - Detailed documentation and examples for each model
 - Clear and concise code structure for easy understanding
 - NumPy-based for efficient computations
@@ -25,11 +28,10 @@ This repository includes the following machine learning models:
 
 - Linear Regression
 - Logistic Regression
-- Decision Trees
+- Decision Trees (both classifier and regressor)
 - Support Vector Machines (SVM)
 - K-Nearest Neighbors (KNN)
-- Random Forest
-- Neural Networks
+- Random Forest (both classifier and regressor)
 
 ## Getting Started
 
